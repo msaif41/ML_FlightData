@@ -1,2 +1,2 @@
 # ML_FlightData
-Predicting arrival times for Denver airport using Random Forest and Naive Bayes models
+Exploration of Denver airport data and predicting arrival times using Random Forest and Naive Bayes models
